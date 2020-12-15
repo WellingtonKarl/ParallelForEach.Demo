@@ -1,1 +1,1 @@
-# ParallelForEach.Demo
+# App criado com objetivo para aprendizado
